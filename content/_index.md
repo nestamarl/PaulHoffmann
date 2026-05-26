@@ -1,18 +1,16 @@
 ---
-title: "Hugo Apéro"
-subtitle: "A Hugo theme you'll want to hang out with"
-description: "Sit down, relax, and get to know Hugo Apéro. Built on top of Blogophonic, we wanted to create a polished Hugo theme with the right features for a true personal website. We set out to create a theme that is a pleasure to learn, and one that helps others get to know you better. It is more than a blog, with flexible custom layouts that help you introduce yourself online."
+title: "Paul on a journey"
+subtitle: "A journal of life, learning, and small projects."
+description: "A personal journal of small projects, learning, and everyday life. DIY, outdoor moments, and things I explore along the way. A place to remember what I’ve done — because small things are easy to forget, but sometimes worth keeping. "
 images:
-  - img/revoir.jpg
-image_left: true
+  - img/avatar_paul.jpg
+image_left: false
 text_align_left: false
-show_social_links: true # specify social accounts in site config
-show_action_link: true
+show_social_links: false # specify social accounts in site config
+show_action_link: false
 action_link: ./about
 action_label: "Read More &rarr;"
 action_type: text # text, button
 type: home
 ---
 
-** index doesn't contain a body, just front matter above.
-See index.html in the layouts folder **
