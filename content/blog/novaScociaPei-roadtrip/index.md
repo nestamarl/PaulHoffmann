@@ -60,14 +60,11 @@ Auf dem Weg zur Fähre könnte man sich das [Flugzeugmuseum](https://acamuseum.c
 ## Tag 5 – Dienstag, 21. Juli
 PEI
 
-Unterkunft auf einem Bauernhof mit Tieren - drei Nächte für 270 Euro über Airbnb
-https://www.airbnb.de/rooms/34963949?adults=2&check_in=2026-07-21&check_out=2026-07-24&children=2&search_mode=regular_search&photo_id=1228443535&source_impression_id=p3_1779824118_P3KKx7ad5-uLqb9X&previous_page_section_name=1000&federated_search_id=260a4a9e-ab7d-40af-8146-e42d0cb1aad7&scroll_to_review=1473991109462656808&review_page_entrypoint=show_more
+[Unterkunft auf einem Bauernhof mit Tieren - drei Nächte für 270 Euro über Airbnb](https://www.airbnb.de/rooms/34963949?adults=2&check_in=2026-07-21&check_out=2026-07-24&children=2&search_mode=regular_search&photo_id=1228443535&source_impression_id=p3_1779824118_P3KKx7ad5-uLqb9X&previous_page_section_name=1000&federated_search_id=260a4a9e-ab7d-40af-8146-e42d0cb1aad7&scroll_to_review=1473991109462656808&review_page_entrypoint=show_more)
 
-Alternative Cavendish 
-https://www.airbnb.de/rooms/800889660026259951?adults=2&check_in=2026-07-21&check_out=2026-07-24&children=2&search_mode=regular_search&source_impression_id=p3_1779825013_P37OtZhF6DQRPmVV&previous_page_section_name=1001&federated_search_id=10f68a25-9e17-4d9a-9c6e-024ac809e7a7&modal=PHOTO_TOUR_SCROLLABLE
+[Alternative Cavendish](https://www.airbnb.de/rooms/800889660026259951?adults=2&check_in=2026-07-21&check_out=2026-07-24&children=2&search_mode=regular_search&source_impression_id=p3_1779825013_P37OtZhF6DQRPmVV&previous_page_section_name=1001&federated_search_id=10f68a25-9e17-4d9a-9c6e-024ac809e7a7&modal=PHOTO_TOUR_SCROLLABLE)
 
-MOtel very close to the beach
-https://www.booking.com/hotel/ca/the-resort-at-cavendish-corner.en-gb.html?label=farmhouse-inn-tNZGBgzRAS3w2HDMEAe0BQS541171302916%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-785761591%3Alp9194109%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YcGt_tphEo8pwlnpZl8ajsA&sid=a2b981901964723b9691ccf78f5b0d6a&gclid=CjwKCAjwidXQBhAZEiwA4egw6IjA8j79dUCWOuAWArj9yjpubGgD2VyYi1V-ox6tQ9HA2CXds9Hc6RoC7R8QAvD_BwE&aid=311088&ucfs=1&checkin=2026-07-21&checkout=2026-07-24&dest_id=-2609609&dest_type=city&group_adults=2&no_rooms=1&group_children=2&age=3&req_age=3&age=5&req_age=5&srpvid=cffb8bdb26d70ca0&srepoch=1779825955&matching_block_id=125507712_373695484_2_1_0&atlas_src=sr_iw_title
+[MOtel very close to the beach](https://www.booking.com/hotel/ca/the-resort-at-cavendish-corner.en-gb.html?label=farmhouse-inn-tNZGBgzRAS3w2HDMEAe0BQS541171302916%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atikwd-785761591%3Alp9194109%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YcGt_tphEo8pwlnpZl8ajsA&sid=a2b981901964723b9691ccf78f5b0d6a&gclid=CjwKCAjwidXQBhAZEiwA4egw6IjA8j79dUCWOuAWArj9yjpubGgD2VyYi1V-ox6tQ9HA2CXds9Hc6RoC7R8QAvD_BwE&aid=311088&ucfs=1&checkin=2026-07-21&checkout=2026-07-24&dest_id=-2609609&dest_type=city&group_adults=2&no_rooms=1&group_children=2&age=3&req_age=3&age=5&req_age=5&srpvid=cffb8bdb26d70ca0&srepoch=1779825955&matching_block_id=125507712_373695484_2_1_0&atlas_src=sr_iw_title)
 
 ## Tag 6 – Mittwoch, 22. Juli
 PEI
@@ -84,3 +81,4 @@ Rückfahrt von Kouchibouguac nach Fredericton
 ---
 
 ## Fazit
+Das wird ein toller trip :D
