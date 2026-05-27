@@ -1,28 +1,22 @@
 ---
-title: A Blog That Works
+title: Blog
 description: |
-  This is a fully featured blog that supports categories, 
-  tags, series, and pagination.
-author: "The R Markdown Team @RStudio"
+  A personal journal of small projects, family life, and everyday moments in Canada.
+author: "Paul Hoffmann"
 show_post_thumbnail: true
 thumbnail_left: true # for list-sidebar only
 show_author_byline: true
 show_post_date: true
 show_button_links: false
 # for listing page layout
-layout: list-sidebar # list, list-sidebar, list-grid
+layout: list # list, list-sidebar, list-grid
 
 # for list-sidebar layout
 sidebar: 
   title: A Sidebar for Your Thoughts
   description: |
-    This is a fully featured blog that supports categories,
-    tags, series, and pagination. Even this sidebar offers 
-    a ton of customizations.
-    
-    Check out the _index.md file in the /blog folder 
-    to edit this content. 
-  author: "The R Markdown Team @RStudio"
+    Hier könnte Ihre Werbung stehen haha
+  author: "Paul Hoffmann"
   text_link_label: Subscribe via RSS
   text_link_url: /index.xml
   show_sidebar_adunit: true # show ad container
