@@ -4,6 +4,7 @@ subtitle: "9 Tage Abenteuer mit Leon und Emil"
 excerpt: "Kultur, Natur und viel Platz zum Spielen — unser Roadtrip von Fredericton durch Québec bis zum Whale Watching in Tadoussac."
 date: 2025-08-27
 author: "Paul Hoffmann"
+show_post_thumbnail: true
 draft: false
 categories:
   - Reisen
