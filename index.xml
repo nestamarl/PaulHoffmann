@@ -42,4 +42,7 @@ Die Überfahrt dauert etwa ~2 - 2 1/2 Stunden.&lt;/p></description></item><item>
  &lt;/svg>&lt;/a>
 &lt;/h2>
 &lt;p>Abfahrt Fredericton Richtung Rivière-du-Loup (ca. 5,5 h). Stopp an den Grand Falls Gorge — Wasserfall und kurze Wanderung. Abends Spaziergang im Parc de la Pointe.
-&lt;img src="pictures/leon_byby.jpg" alt="Québec City">&lt;/p></description></item></channel></rss>
+&lt;img src="pictures/leon_byby.jpg" alt="Québec City">&lt;/p></description></item><item><title>Contact</title><link>https://paulonajourney.com/contact/</link><pubDate>Mon, 25 Feb 2019 13:38:41 -0600</pubDate><guid>https://paulonajourney.com/contact/</guid><description>&lt;p>** Contact page don&amp;rsquo;t contain a body, just the front matter above.
+See form.html in the layouts folder.&lt;/p>
+&lt;p>Formspree requires a (free) account and new form to be set up. The link is made on the final published url in the field: Restrict to Domain. It is possible to register up to 2 emails free and you can select which one you want the forms to go to within Formspree in the Settings tab.
+**&lt;/p></description></item></channel></rss>
