@@ -1,7 +1,7 @@
 ---
 title: "About"
 description: |
-  I Think this should not appear.
+  A personal journal of small projects, family life, and everyday moments.
 show_header: false
 sidebar_left: false
 # Keep this! Do not edit.
