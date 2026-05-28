@@ -10,7 +10,7 @@ intro: |
 
   I’m a father of two and spent two memorable years living in Fredericton, Canada. Outside of work and family life, I enjoy staying active. I played handball for many years, started kitesurfing a few years ago, and I’m currently learning kitefoiling and pumpfoiling. And whenever I can find a little extra time, I enjoy learning the Steirische Harmonika or playing the trumpet.
 
-show_outro: true
+show_outro: false
 outro: |
   <i class="fas fa-glass-cheers pr2"></i>Sincere thanks to [Maëlle Salmon](https://masalmon.eu/) for her help naming this Hugo theme!
 ---
