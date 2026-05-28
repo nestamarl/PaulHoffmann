@@ -4,7 +4,7 @@ languageCode = "de"
 title = "Paul on a Journey"
 author = "Paul Hoffmann"
 copyright = ""
-googleAnalytics = ""
+googleAnalytics = "G-MPL4BVHQ10"
 metaDataFormat = "yaml"
 footnoteReturnLinkContents = "&#8617;"
 [pagination]
