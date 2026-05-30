@@ -1,5 +1,6 @@
 ---
 title: Trip to Toronto
+excerpt: "A little trip to Toronto"
 description: A family adventure in Canada's biggest city
 date: 2026-05-29T22:51:14.712Z
 preview: toronto_featured.jpg
