@@ -1,6 +1,6 @@
 ---
 title: "Familien-Roadtrip nach Nova Scotia und PEI"
-subtitle: "9 wietere Tage Abenteuer mit Leon und Emil"
+subtitle: "9 weitere Tage Abenteuer mit Leon und Emil"
 excerpt: "Wir machen einen kurzen Urlaubstrip nach Nova Scotia und PEI"
 date: 2026-05-26
 author: "Paul Hoffmann"
