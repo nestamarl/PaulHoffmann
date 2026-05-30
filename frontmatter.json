@@ -42,6 +42,31 @@
           "title": "Categories",
           "name": "categories",
           "type": "categories"
+        },
+        {
+          "title": "show_post_thumbnail",
+          "name": "show_post_thumbnail",
+          "type": "boolean"
+        },
+        {
+          "title": "subtitle",
+          "name": "subtitle",
+          "type": "string"
+        },
+        {
+          "title": "excerpt",
+          "name": "excerpt",
+          "type": "string"
+        },
+        {
+          "title": "author",
+          "name": "author",
+          "type": "string"
+        },
+        {
+          "title": "layout",
+          "name": "layout",
+          "type": "string"
         }
       ]
     }
@@ -52,15 +77,8 @@
   "frontMatter.git.enabled": false,
   "frontMatter.content.pageFolders": [
     {
-      "title": "content",
-      "path": "[[workspace]]/content"
-    },
-    {
       "title": "blog",
       "path": "[[workspace]]/content/blog"
-    },
-    {
-      "path": "[[workspace]]/content/about/header"
     }
   ]
 }
