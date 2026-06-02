@@ -1,0 +1,11 @@
+<div class="tripday {{ .Get "side" }}">
+
+  <div class="tripday-image">
+    <img src="{{ .Get "image" }}" alt="">
+  </div>
+
+  <div class="tripday-text">
+    {{ .Inner | markdownify }}
+  </div>
+
+</div>

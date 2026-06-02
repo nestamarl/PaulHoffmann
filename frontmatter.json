@@ -80,5 +80,23 @@
       "title": "blog",
       "path": "[[workspace]]/content/blog"
     }
-  ]
+  ],
+  "frontMatter.content.snippets": {
+    "Blogpost": {
+      "description": "Trip Day Left",
+      "body": [
+        "{{< tripday side=\"left\" image=\"digby.jpg\" >}}",
+        "",
+        "## Tag 1 – Digby",
+        "",
+        "Text hier...",
+        "",
+        "- Punkt 1",
+        "- Punkt 2",
+        "",
+        "{{< /tripday >}}"
+      ],
+      "fields": []
+    }
+  }
 }
