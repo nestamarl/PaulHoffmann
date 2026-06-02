@@ -53,14 +53,14 @@ Ausflüge:
 
 ---
 
-## Tag 3 – Sonntag, 19. Juli
+## Tag 3/4 – Sonntag/Montag, 19.-20. Juli
 
 Bridgewater → Mahone Bay → Peggy's Cove → Halifax (~1 h)
 
 Peggy's Cove liegt fast auf dem Weg nach Halifax und lässt sich je nach Wetter gut mitnehmen – am besten am Vormittag. Entlang der Route gibt es außerdem mehrere Strände, z. B. den Queensland Beach, sowie einen Eisverkauf – man muss allerdings kurz von der Autobahn abfahren.
 
 Ausflüge in Halifax:
-- Waterfront Boardwalk
+- [Waterfront Boardwalk](https://novascotia.com/get-inspired/top-25/halifax-waterfront/)
 - [Museum of Natural History](https://naturalhistory.novascotia.ca/)
 - [Discovery Centre](https://thediscoverycentre.ca/)
 
@@ -68,13 +68,7 @@ Ausflüge in Halifax:
 
 ---
 
-## Tag 4 – Montag, 20. Juli
-
-**Unterkunft:** [Future Inn Halifax](https://www.futureinns.com/)
-
----
-
-## Tag 5 – Dienstag, 21. Juli
+## Tag 5/6/7 – Dienstag, 21.- 24. Juli
 
 Halifax → PEI (~3 h)
 
@@ -82,31 +76,19 @@ Von Halifax bis Caribou zur Fähre sind es etwa 2 Stunden. Die [Fähre](https://
 
 Auf dem Weg zur Fähre könnte man sich das [Flugzeugmuseum](https://acamuseum.ca/) ansehen.
 
-**Unterkunft:** [Cavendish Motel](https://www.cavendishmotel.com/)
 
----
-
-## Tag 6 – Mittwoch, 22. Juli
 
 **Unterkunft:** [Cavendish Motel](https://www.cavendishmotel.com/)
 
 ---
 
-## Tag 7 – Donnerstag, 23. Juli
+## Tag 8/9/10 – Freitag/Samstag, 24.–25. Juli
 
-**Unterkunft:** [Cavendish Motel](https://www.cavendishmotel.com/)
+Abfahrt von PEI nach [Kouchibouguac](https://tourismenouveaubrunswick.ca/produit/parc-national-kouchibouguac) zum Camping mit unseren Freunden. 
 
----
+Fahrzeit von Cavendish ca. 2:15 h über die Brücke.
 
-## Tag 8/9 – Freitag/Samstag, 24.–25. Juli
-
-Abfahrt von PEI nach [Kouchibouguac](https://tourismenouveaubrunswick.ca/produit/parc-national-kouchibouguac) zum Camping mit unseren Freunden. Fahrzeit von Cavendish ca. 2:15 h über die Brücke.
-
----
-
-## Tag 10 – Sonntag, 26. Juli
-
-Rückfahrt von Kouchibouguac nach Fredericton – Fahrzeit ebenfalls etwa 2,5 Stunden.
+Sonntag Rückfahrt von Kouchibouguac nach Fredericton – Fahrzeit ebenfalls etwa 2,5 Stunden.
 
 ---
 
