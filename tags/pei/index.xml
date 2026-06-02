@@ -4,7 +4,7 @@
  &lt;path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z">&lt;/path>
  &lt;/svg>&lt;/a>
 &lt;/h2>
-&lt;p>&lt;strong>Route:&lt;/strong> Fredericton → St John → Digby → Halifax → PEI → Camping → Freddy&lt;/p>
+&lt;p>&lt;strong>Route:&lt;/strong> Fredericton → St. John → Digby → Halifax → PEI → Camping → Freddy&lt;/p>
 &lt;iframe src="https://www.google.com/maps/d/embed?mid=1Q0FXk69bYv9GN2hqoITP4zFWhemMHF8&amp;ehbc=2E312F" width="640" height="480">&lt;/iframe>
 &lt;hr>
 
@@ -17,9 +17,5 @@
  &lt;path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z">&lt;/path>
  &lt;/svg>&lt;/a>
 &lt;/h2>
-&lt;p style="text-align: justify;">
-Abfahrt Fredericton nach St John (~1:15) und übersetzten mit der [MV Fundy Rose](https://www.ferries.ca/nb-ns-ferry) nach Digby auf Nova Scotia. Abfahrt ist 170 Digby Ferry Road, Saint John, NB, E2M 0B2 um 14:15 und mann muss mindestens einen Stunde vorher bei der Abfertigung sein.
-Die Überfahrt dauert etwa ~2 - 2 1/2 Stunden. 
-&lt;p>Abfahrt Fredericton ~12:00
-Mittagessen in St John
-Fähre 14:15 → 17:00 Uhr ungefähr in Digby&lt;/p></description></item></channel></rss>
+&lt;p>Von Fredericton fahren wir nach St. John (~1:15 h) und übersetzen dann mit der 
+&lt;a href="https://www.ferries.ca/nb-ns-ferry" target="_blank" rel="noopener">MV Fundy Rose&lt;/a> nach Digby in Nova Scotia. Abfahrt ist an der 170 Digby Ferry Road, Saint John, NB, E2M 0B2 um 14:15 Uhr – man muss mindestens eine Stunde vorher bei der Abfertigung sein. Die Überfahrt dauert etwa 2 bis 2,5 Stunden.&lt;/p></description></item></channel></rss>
