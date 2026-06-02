@@ -26,6 +26,7 @@ layout: single
 ---
 
 ## Tag 1 – Freitag, 17. Juli
+<p style="text-align: justify;">
 Abfahrt Fredericton nach St John (~1:15) und übersetzten mit der [MV Fundy Rose](https://www.ferries.ca/nb-ns-ferry) nach Digby auf Nova Scotia. Abfahrt ist 170 Digby Ferry Road, Saint John, NB, E2M 0B2 um 14:15 und mann muss mindestens einen Stunde vorher bei der Abfertigung sein.
 Die Überfahrt dauert etwa ~2 - 2 1/2 Stunden. 
 
@@ -36,7 +37,7 @@ Fähre 14:15 → 17:00 Uhr ungefähr in Digby
 Kosten für die Fähre waren jetzt 122 cad$ (2 Erwachsenen + Auto + Kinder bis 5Jahre frei)
 
 Unterkunft (Reserviert): Nähe Digby [Coastal Inn](https://coastalinns.com/digby/) für 160 CAD+tax inklusive Frühstück bei booking.com
-
+</p>
 
 ## Tag 2 – Samstag, 18. Juli
 
