@@ -25,7 +25,7 @@ layout: single
 
 ---
 <!-- FM:Snippet:Start data:{"id":"Blogpost","fields":[]} -->
-{{< tripday side="left" image="dighby.jpg" >}}
+{{< tripday side="left" image="pictures/dighby.jpg" >}}
 
 ### Day 1 – Freitag, 17. Juli
 
@@ -48,7 +48,7 @@ Kosten für die Fähre: 122 CAD (2 Erwachsene + Auto, Kinder bis 5 Jahre frei)
 ---
 
 <!-- FM:Snippet:Start data:{"id":"Blogpost","fields":[]} -->
-{{< tripday side="right" image="dighby.jpg" >}}
+{{< tripday side="right" image="pictures/dighby.jpg" >}}
 
 ### Day 2 – Samstag, 18. Juli
 
@@ -114,7 +114,7 @@ Auf dem Weg zur Fähre könnte man sich das [Flugzeugmuseum](https://acamuseum.c
 ---
 
 <!-- FM:Snippet:Start data:{"id":"Blogpost","fields":[]} -->
-{{< tripday side="left" image="pictures/dighby.jpg" >}}
+{{< tripday side="left" image="dighby.jpg" >}}
 
 ### Tag 8/9/10 – Freitag/Samstag, 24.–25. Juli
 
