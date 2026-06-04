@@ -85,9 +85,9 @@
     "Blogpost": {
       "description": "Trip Day Left",
       "body": [
-        "{{< tripday side=\"left\" image=\"digby.jpg\" >}}",
+        "{{< tripday side=\"left\" image=\"[[]]\" >}}",
         "",
-        "## Tag 1 – Digby",
+        "### Tag 1 – Digby",
         "",
         "Text hier...",
         "",
@@ -96,7 +96,15 @@
         "",
         "{{< /tripday >}}"
       ],
-      "fields": []
+      "fields": [
+        {
+          "name": "",
+          "title": "",
+          "type": "string",
+          "single": true,
+          "default": ""
+        }
+      ]
     }
   }
 }

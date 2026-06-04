@@ -1,10 +1,10 @@
 ---
-title: "Familien-Roadtrip nach Nova Scotia und PEI"
-subtitle: "9 weitere Tage Abenteuer mit Leon und Emil"
-excerpt: "Wir machen einen kurzen Urlaubstrip nach Nova Scotia und PEI"
+title: Familien-Roadtrip nach Nova Scotia und PEI
+subtitle: 9 weitere Tage Abenteuer mit Leon und Emil
+excerpt: Wir machen einen kurzen Urlaubstrip nach Nova Scotia und PEI
 date: 2026-05-26
-author: "Paul Hoffmann"
-preview: "dighby_featured.jpg"
+author: Paul Hoffmann
+preview: dighby_featured.jpg
 show_post_thumbnail: true
 draft: false
 categories:
@@ -24,69 +24,110 @@ layout: single
 <iframe src="https://www.google.com/maps/d/embed?mid=1Q0FXk69bYv9GN2hqoITP4zFWhemMHF8&ehbc=2E312F" width="640" height="480"></iframe>
 
 ---
+<!-- FM:Snippet:Start data:{"id":"Blogpost","fields":[]} -->
+{{< tripday side="left" image="dighby.jpg" >}}
 
-## Tag 1 – Freitag, 17. Juli
-
-Von Fredericton fahren wir nach St. John (~1:15 h) und übersetzen dann mit der [MV Fundy Rose](https://www.ferries.ca/nb-ns-ferry) nach Digby in Nova Scotia. Abfahrt ist an der 170 Digby Ferry Road, Saint John, NB, E2M 0B2 um 14:15 Uhr – man muss mindestens eine Stunde vorher bei der Abfertigung sein. Die Überfahrt dauert etwa 2 bis 2,5 Stunden.
+### Day 1 – Freitag, 17. Juli
 
 - Abfahrt Fredericton ~12:00 Uhr
 - Mittagessen in St. John
 - Fähre 14:15 → ~17:00 Uhr in Digby
+{{< /tripday >}}
+<!-- FM:Snippet:End -->
+
+Von Fredericton fahren wir nach St. John (~1:15 h) und übersetzen dann mit der [MV Fundy Rose](https://www.ferries.ca/nb-ns-ferry) nach Digby in Nova Scotia. Abfahrt ist an der 170 Digby Ferry Road, Saint John, NB, E2M 0B2 um 14:15 Uhr – man muss mindestens eine Stunde vorher bei der Abfertigung sein. Die Überfahrt dauert etwa 2 bis 2,5 Stunden.
+
+
 
 Kosten für die Fähre: 122 CAD (2 Erwachsene + Auto, Kinder bis 5 Jahre frei)
 
-**Unterkunft (reserviert):** [Coastal Inn Digby](https://coastalinns.com/digby/) – 160 CAD + Tax, inklusive Frühstück (über booking.com)
+**Unterkunft (reserviert):** 
+
+[Coastal Inn Digby](https://coastalinns.com/digby/) – 160 CAD + Tax, inklusive Frühstück (über booking.com)
 
 ---
 
-## Tag 2 – Samstag, 18. Juli
+<!-- FM:Snippet:Start data:{"id":"Blogpost","fields":[]} -->
+{{< tripday side="right" image="dighby.jpg" >}}
 
-Von Digby fährt man ca. 2 Stunden in Richtung Lunenburg (UNESCO-Weltkulturerbe), wobei etwa auf der Hälfte der Strecke der Kejimkujik National Park liegt. In Lunenburg lohnt sich ein Besuch des [Fisheries Museum of the Atlantic](https://fisheriesmuseum.novascotia.ca/). Falls noch Zeit und Lust ist, können wir auch einen Stopp in Mahone Bay einlegen – je nach Stimmung.
+### Day 2 – Samstag, 18. Juli
 
 - Digby → Bridgewater (~2–2,5 h)
 
-Ausflüge:
+{{< /tripday >}}
+<!-- FM:Snippet:End -->
+
+Von Digby fährt man ca. 2 Stunden in Richtung Lunenburg (UNESCO-Weltkulturerbe), wobei etwa auf der Hälfte der Strecke der Kejimkujik National Park liegt. In Lunenburg lohnt sich ein Besuch des [Fisheries Museum of the Atlantic](https://fisheriesmuseum.novascotia.ca/). Falls noch Zeit und Lust ist, können wir auch einen Stopp in Mahone Bay einlegen – je nach Stimmung.
+
+**Ausflüge:**
 - Mahone Bay
 - Lunenburg
 
-**Unterkunft (reserviert):** [Bridgewater Hotel](http://www.bridgewaterhotel.ca/) – 168 CAD + Tax, Frühstück optional für 10 CAD buchbar
+**Unterkunft (reserviert):** 
+
+[Bridgewater Hotel](http://www.bridgewaterhotel.ca/) – 168 CAD + Tax, Frühstück optional für 10 CAD buchbar
 
 ---
 
-## Tag 3/4 – Sonntag/Montag, 19.-20. Juli
+<!-- FM:Snippet:Start data:{"id":"Blogpost","fields":[]} -->
+{{< tripday side="left" image="dighby.jpg" >}}
 
-Bridgewater → Mahone Bay → Peggy's Cove → Halifax (~1 h)
+### Tag 3/4 – Sonntag/Montag, 19.-20. Juli
+
+- Bridgewater → Mahone Bay → Peggy's Cove → Halifax (~1 h)
+
+{{< /tripday >}}
+<!-- FM:Snippet:End -->
 
 Peggy's Cove liegt fast auf dem Weg nach Halifax und lässt sich je nach Wetter gut mitnehmen – am besten am Vormittag. Entlang der Route gibt es außerdem mehrere Strände, z. B. den Queensland Beach, sowie einen Eisverkauf – man muss allerdings kurz von der Autobahn abfahren.
 
-Ausflüge in Halifax:
+**Ausflüge in Halifax:**
 - [Waterfront Boardwalk](https://novascotia.com/get-inspired/top-25/halifax-waterfront/)
 - [Museum of Natural History](https://naturalhistory.novascotia.ca/)
 - [Discovery Centre](https://thediscoverycentre.ca/)
 
-**Unterkunft:** [Future Inn Halifax](https://www.futureinns.com/)
+**Unterkunft:** 
+
+[Future Inn Halifax](https://www.futureinns.com/)
 
 ---
 
-## Tag 5/6/7 – Dienstag, 21.- 24. Juli
+
+<!-- FM:Snippet:Start data:{"id":"Blogpost","fields":[]} -->
+{{< tripday side="right" image="dighby.jpg" >}}
+
+### Tag 5/6/7 – Dienstag, 21.- 24. Juli
 
 Halifax → PEI (~3 h)
+
+{{< /tripday >}}
+<!-- FM:Snippet:End -->
 
 Von Halifax bis Caribou zur Fähre sind es etwa 2 Stunden. Die [Fähre](https://www.ferries.ca/ns-pei-ferry) von Caribou nach Wood Islands auf PEI kostet 11,50 CAD pro Erwachsenen – Kinder fahren gratis. Abfahrten täglich um 07:00, 08:30, 10:00, 11:45, 13:30, 15:15, 17:00 und 18:30 Uhr, Check-in mindestens 40 Minuten vor Abfahrt. Die Fahrzeit beträgt 75 Minuten.
 
 Auf dem Weg zur Fähre könnte man sich das [Flugzeugmuseum](https://acamuseum.ca/) ansehen.
 
+**Unterkunft:** 
 
-
-**Unterkunft:** [Cavendish Motel](https://www.cavendishmotel.com/)
+[Cavendish Motel](https://www.cavendishmotel.com/)
 
 ---
 
-## Tag 8/9/10 – Freitag/Samstag, 24.–25. Juli
+<!-- FM:Snippet:Start data:{"id":"Blogpost","fields":[]} -->
+{{< tripday side="left" image="dighby.jpg" >}}
+
+### Tag 8/9/10 – Freitag/Samstag, 24.–25. Juli
+
+- Fahrzeit von Cavendish ca. 2:15 h über die Brücke.
+
+{{< /tripday >}}
+<!-- FM:Snippet:End -->
+
+
 
 Abfahrt von PEI nach [Kouchibouguac](https://tourismenouveaubrunswick.ca/produit/parc-national-kouchibouguac) zum Camping mit unseren Freunden. 
 
-Fahrzeit von Cavendish ca. 2:15 h über die Brücke.
+
 
 Sonntag Rückfahrt von Kouchibouguac nach Fredericton – Fahrzeit ebenfalls etwa 2,5 Stunden.
 
