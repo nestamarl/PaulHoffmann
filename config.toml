@@ -42,7 +42,7 @@ enableEmoji = true
   textFontFamily = "sans-serif"
   headingFontFamily = "sans-serif"
   comments = ""
-  customCSS = ["scss/tripday.scss"]
+  customCSS = ["scss/tripday.css"]
 
   [[params.social]]
       icon      = "github"

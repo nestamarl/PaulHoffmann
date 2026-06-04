@@ -94,7 +94,7 @@ Peggy's Cove liegt fast auf dem Weg nach Halifax und lässt sich je nach Wetter 
 
 
 <!-- FM:Snippet:Start data:{"id":"Blogpost","fields":[]} -->
-{{< tripday side="right" image="dighby.jpg" >}}
+{{< tripday side="right" image="pictures/dighby.jpg" >}}
 
 ### Tag 5/6/7 – Dienstag, 21.- 24. Juli
 
@@ -114,7 +114,7 @@ Auf dem Weg zur Fähre könnte man sich das [Flugzeugmuseum](https://acamuseum.c
 ---
 
 <!-- FM:Snippet:Start data:{"id":"Blogpost","fields":[]} -->
-{{< tripday side="left" image="dighby.jpg" >}}
+{{< tripday side="left" image="pictures/dighby.jpg" >}}
 
 ### Tag 8/9/10 – Freitag/Samstag, 24.–25. Juli
 
