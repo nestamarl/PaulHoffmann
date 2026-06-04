@@ -25,7 +25,7 @@ layout: single
 
 ---
 <!-- FM:Snippet:Start data:{"id":"Blogpost","fields":[]} -->
-{{< tripday side="left" image="dighby.jpg" >}}
+{{< tripday side="left" image="pictures/dighby.jpg" >}}
 
 ### Day 1 – Freitag, 17. Juli
 
@@ -70,7 +70,7 @@ Von Digby fährt man ca. 2 Stunden in Richtung Lunenburg (UNESCO-Weltkulturerbe)
 ---
 
 <!-- FM:Snippet:Start data:{"id":"Blogpost","fields":[]} -->
-{{< tripday side="left" image="dighby.jpg" >}}
+{{< tripday side="left" image="pictures/dighby.jpg" >}}
 
 ### Tag 3/4 – Sonntag/Montag, 19.-20. Juli
 
@@ -114,7 +114,7 @@ Auf dem Weg zur Fähre könnte man sich das [Flugzeugmuseum](https://acamuseum.c
 ---
 
 <!-- FM:Snippet:Start data:{"id":"Blogpost","fields":[]} -->
-{{< tripday side="left" image="dighby.jpg" >}}
+{{< tripday side="left" image="pictures/dighby.jpg" >}}
 
 ### Tag 8/9/10 – Freitag/Samstag, 24.–25. Juli
 
