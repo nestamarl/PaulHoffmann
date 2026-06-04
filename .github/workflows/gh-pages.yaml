@@ -14,9 +14,11 @@ permissions:
 jobs:
   deploy:
     runs-on: ubuntu-22.04
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     steps:
       - name: 🔄 Check Out Source Repository
-        uses: actions/checkout@v3.5.1
+        uses: actions/checkout@v4
         with:
           submodules: true # Fetch Hugo themes (true OR recursive)
           fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod
