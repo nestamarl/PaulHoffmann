@@ -30,7 +30,7 @@ jobs:
           extended: true
 
       - name: 🏗️ Compile Hugo Static Files
-        run: hugo -D --gc --minify
+        run: hugo --gc --minify
 
       - name: 🔐 Secure Content with Encryption
         run: curl -L -o hugo-encrypt "https://github.com/Izumiko/hugo-encrypt/releases/download/v0.1.0/hugo-encrypt-linux-64" && chmod 755 hugo-encrypt && ./hugo-encrypt
