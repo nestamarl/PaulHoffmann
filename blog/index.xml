@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog on Paul on a Journey</title><link>https://paulonajourney.com/blog/</link><description>Recent content in Blog on Paul on a Journey</description><generator>Hugo</generator><language>de</language><lastBuildDate>Tue, 02 Jun 2026 17:22:42 +0000</lastBuildDate><atom:link href="https://paulonajourney.com/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Test</title><link>https://paulonajourney.com/blog/test/</link><pubDate>Tue, 02 Jun 2026 17:22:42 +0000</pubDate><guid>https://paulonajourney.com/blog/test/</guid><description>&lt;!-- FM:Snippet:Start data:{"id":"Blogpost","fields":[]} -->
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog on Paul on a Journey</title><link>https://paulonajourney.com/blog/</link><description>Recent content in Blog on Paul on a Journey</description><generator>Hugo</generator><language>de</language><lastBuildDate>Tue, 02 Jun 2026 17:22:42 +0000</lastBuildDate><atom:link href="https://paulonajourney.com/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Measuring the house in sketchup</title><link>https://paulonajourney.com/blog/test/</link><pubDate>Tue, 02 Jun 2026 17:22:42 +0000</pubDate><guid>https://paulonajourney.com/blog/test/</guid><description>&lt;!-- FM:Snippet:Start data:{"id":"Blogpost","fields":[]} -->
 &lt;div class="tripday left">
 
  &lt;div class="tripday-image">
@@ -12,7 +12,7 @@
  &lt;path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z">&lt;/path>
  &lt;/svg>&lt;/a>
 &lt;/h2>
-&lt;p>Text hier&amp;hellip;&lt;/p>
+&lt;p>T ja adsjfkasjdöf a d shfasjkf ask fajsdkfjas kdfjsa f asfkajskdfskd f shfkaskf as dfa sdkfhaskhdfk&lt;/p>
 &lt;ul>
 &lt;li>Punkt 1&lt;/li>
 &lt;li>Punkt 2&lt;/li>
@@ -22,7 +22,7 @@
 &lt;/div>
 &lt;!-- FM:Snippet:End -->
 &lt;!-- FM:Snippet:Start data:{"id":"Blogpost","fields":[]} -->
-&lt;div class="tripday left">
+&lt;div class="tripday right">
 
  &lt;div class="tripday-image">
  &lt;img src="test.jpg" alt="">
@@ -62,16 +62,34 @@
 &lt;p>&lt;strong>Route:&lt;/strong> Fredericton → St. John → Digby → Halifax → PEI → Camping → Freddy&lt;/p>
 &lt;iframe src="https://www.google.com/maps/d/embed?mid=1Q0FXk69bYv9GN2hqoITP4zFWhemMHF8&amp;ehbc=2E312F" width="640" height="480">&lt;/iframe>
 &lt;hr>
+&lt;!-- FM:Snippet:Start data:{"id":"Blogpost","fields":[]} -->
+&lt;div class="tripday left">
+
+ &lt;div class="tripday-image">
+ &lt;img src="dighby.jpg" alt="">
+ &lt;/div>
+
+ &lt;div class="tripday-text">
+ 
 
 
 
-
-&lt;h2 id="tag-1--freitag-17-juli">Tag 1 – Freitag, 17. Juli
- &lt;a href="#tag-1--freitag-17-juli">&lt;svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
+&lt;h3 id="day-1--freitag-17-juli">Day 1 – Freitag, 17. Juli
+ &lt;a href="#day-1--freitag-17-juli">&lt;svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
  &lt;path d="M0 0h24v24H0z" fill="currentColor">&lt;/path>
  &lt;path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z">&lt;/path>
  &lt;/svg>&lt;/a>
-&lt;/h2>
+&lt;/h3>
+&lt;ul>
+&lt;li>Abfahrt Fredericton ~12:00 Uhr&lt;/li>
+&lt;li>Mittagessen in St. John&lt;/li>
+&lt;li>Fähre 14:15 → ~17:00 Uhr in Digby&lt;/li>
+&lt;/ul>
+
+ &lt;/div>
+
+&lt;/div>
+&lt;!-- FM:Snippet:End -->
 &lt;p>Von Fredericton fahren wir nach St. John (~1:15 h) und übersetzen dann mit der 
 &lt;a href="https://www.ferries.ca/nb-ns-ferry" target="_blank" rel="noopener">MV Fundy Rose&lt;/a> nach Digby in Nova Scotia. Abfahrt ist an der 170 Digby Ferry Road, Saint John, NB, E2M 0B2 um 14:15 Uhr – man muss mindestens eine Stunde vorher bei der Abfertigung sein. Die Überfahrt dauert etwa 2 bis 2,5 Stunden.&lt;/p></description></item><item><title>Familien-Roadtrip nach Québec</title><link>https://paulonajourney.com/blog/quebec-roadtrip/</link><pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate><guid>https://paulonajourney.com/blog/quebec-roadtrip/</guid><description>&lt;h2 id="-unsere-route">🗺️ Unsere Route
  &lt;a href="#-unsere-route">&lt;svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
