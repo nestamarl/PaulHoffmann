@@ -25,7 +25,7 @@ layout: single
 
 ---
 <!-- FM:Snippet:Start data:{"id":"Blogpost","fields":[]} -->
-{{< tripday side="left" image="pictures/dighby.jpg" >}}
+{{< tripday side="left" image="dighby.jpg" >}}
 
 ### Day 1 – Freitag, 17. Juli
 

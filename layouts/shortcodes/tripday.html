@@ -1,7 +1,10 @@
 <div class="tripday {{ .Get "side" }}">
 
   <div class="tripday-image">
-    <img src="{{ .Page.RelPermalink }}{{ .Get "image" }}" alt="">
+    {{ $image := .Page.Resources.GetMatch (.Get "image") }}
+    {{ if $image }}
+      <img src="{{ $image.RelPermalink }}" alt="">
+    {{ end }}
   </div>
 
   <div class="tripday-text">
