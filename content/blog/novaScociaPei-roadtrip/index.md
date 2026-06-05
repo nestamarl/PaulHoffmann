@@ -48,7 +48,7 @@ Kosten für die Fähre: 122 CAD (2 Erwachsene + Auto, Kinder bis 5 Jahre frei)
 ---
 
 <!-- FM:Snippet:Start data:{"id":"Blogpost","fields":[]} -->
-{{< tripday side="right" image="pictures/dighby.jpg" >}}
+{{< tripday side="right" image="pictures/Lunenburg.jpg" >}}
 
 ### Day 2 – Samstag, 18. Juli
 
@@ -70,7 +70,7 @@ Von Digby fährt man ca. 2 Stunden in Richtung Lunenburg (UNESCO-Weltkulturerbe)
 ---
 
 <!-- FM:Snippet:Start data:{"id":"Blogpost","fields":[]} -->
-{{< tripday side="left" image="pictures/dighby.jpg" >}}
+{{< tripday side="left" image="pictures/peggys.jpg" >}}
 
 ### Tag 3/4 – Sonntag/Montag, 19.-20. Juli
 
@@ -94,7 +94,7 @@ Peggy's Cove liegt fast auf dem Weg nach Halifax und lässt sich je nach Wetter 
 
 
 <!-- FM:Snippet:Start data:{"id":"Blogpost","fields":[]} -->
-{{< tripday side="right" image="pictures/dighby.jpg" >}}
+{{< tripday side="right" image="pictures/pei.jpg" >}}
 
 ### Tag 5/6/7 – Dienstag, 21.- 24. Juli
 
@@ -114,7 +114,7 @@ Auf dem Weg zur Fähre könnte man sich das [Flugzeugmuseum](https://acamuseum.c
 ---
 
 <!-- FM:Snippet:Start data:{"id":"Blogpost","fields":[]} -->
-{{< tripday side="left" image="pictures/dighby.jpg" >}}
+{{< tripday side="left" image="pictures/Kouchibouguac.jpg" >}}
 
 ### Tag 8/9/10 – Freitag/Samstag, 24.–25. Juli
 

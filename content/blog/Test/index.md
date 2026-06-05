@@ -13,18 +13,7 @@ author: Paul Hoffmann
 layout: ""
 ---
 
-<!-- FM:Snippet:Start data:{"id":"Blogpost","fields":[]} -->
-{{< tripday side="left" image="test.jpg" >}}
-
-## Tag 1 – Digby
-
-T ja  adsjfkasjdöf a d shfasjkf ask fajsdkfjas kdfjsa f asfkajskdfskd f shfkaskf as dfa sdkfhaskhdfk
-
-- Punkt 1
-- Punkt 2
-
-{{< /tripday >}}
-<!-- FM:Snippet:End -->
+<!-- TODO: check this please>
 
 <!-- FM:Snippet:Start data:{"id":"Blogpost","fields":[]} -->
 {{< tripday side="right" image="test.jpg" >}}
